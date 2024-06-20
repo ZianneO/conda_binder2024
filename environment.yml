@@ -14,9 +14,9 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - r-scikitlearn
-  - dypylr
+  - scikit-learn
+  - r-dpylr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
-  - stringr
+  - r-stringr
