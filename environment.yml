@@ -2,7 +2,9 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.9
+  - r-base=4.0
+  - plotly
   - numpy
   - psutil
   - toolz
@@ -12,3 +14,9 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - scikitlearn
+  - r-dypylr
+  - ggplot2
+  - reshape2
+  - tidyverse
+  - stringr
