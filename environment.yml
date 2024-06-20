@@ -15,7 +15,7 @@ dependencies:
   - bokeh
   - dask
   - scikit-learn
-  - r-dpylr
+  - r-dplyr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
